@@ -95,4 +95,8 @@
   #step-3 {
     width: 40%;
   }
+
+  @media (max-width: 820px) {
+    display: none;
+  }
 }

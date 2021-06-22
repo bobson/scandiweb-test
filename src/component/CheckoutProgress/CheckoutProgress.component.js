@@ -3,7 +3,6 @@ import React from "react";
 import "./CheckoutProgress.style";
 
 const CheckoutProgress = ({ step }) => {
-  console.log(step);
   return (
     <div className="container">
       <div id="step-1" className="progress-bar completed">
